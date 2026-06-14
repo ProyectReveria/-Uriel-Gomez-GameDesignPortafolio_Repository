@@ -1,7 +1,7 @@
 **Uriel Gomez | Portfolio & Technical Documentation**
 
 Welcome to my professional portfolio. This repository serves as a centralized hub for my technical documentation, project architectures, and design workflows as a Game Engine Architect, Programmer, and Technical Designer.
-In this repository is all my past work has programer, Game Designer, Game Documentation and much more
+In this repository is all my past work as programer, Game Designer, Game Documentation and much more
 
 **Project Documentation** 
 You can find my Design Documents (GDD) and Musical Design Documents in the **Game Design Documents** folder
@@ -15,11 +15,11 @@ You can find my Design Documents (GDD) and Musical Design Documents in the **Gam
 For the actual source code, including my Game engine and graphics programing experience, please refer to the repositores:
 
 OpenGL Prepositori: https://github.com/ProyectReveria/OpenGL_Prepositori
-Obsucure Engine: https://github.com/ProyectReveria/Obscure_Game_Engine_2.0__for_Shell
+ObscureEngine: https://github.com/ProyectReveria/Obscure_Game_Engine_2.0__for_Shell
 
 **Creative Portafolio** 
 
-My music and Scores work hosted in tree diferent platforms, please refer the follow links for more look into it:
+My music and Scores work hosted in tree diferent platforms, please refer to the follow links for more look into it:
 
 Musescore: https://musescore.com/user/67212145
 
