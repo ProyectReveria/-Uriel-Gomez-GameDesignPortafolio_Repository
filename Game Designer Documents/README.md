@@ -18,3 +18,6 @@ Chronostasis: Reveria
 Spanish:https://docs.google.com/document/d/1rzLG0qNfkhf_SnDNrYUzmJDo6IX2d9GM3EpvWBIb-FM/edit?tab=t.0#heading=h.l42xahno6xm6
 English:https://docs.google.com/document/d/1jM4dVqZDK4ruh28LtJ1GSwsbcl3z8qaVzyAyVK_OuuE/edit?tab=t.0#heading=h.l42xahno6xm6
 
+
+For the moment is DO NOT HAVE musical Design Documents can be public 
+
