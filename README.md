@@ -28,5 +28,7 @@ Souncloud: https://soundcloud.com/flowermain
 
 Youtube: https://www.youtube.com/@AliciaOrchestralLibrary
 
+Sound Design Reel (Update on the Future): https://youtu.be/GAETyOAfM2Q
+
 For More information send one Gmail to: **urielgomezmadriz@gmail.com** or call the number **+506 7110 8289**
 
