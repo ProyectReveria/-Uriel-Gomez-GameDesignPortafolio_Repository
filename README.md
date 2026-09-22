@@ -22,6 +22,8 @@ ObscureEngine: https://github.com/ProyectReveria/Obscure_Game_Engine_2.0__for_Sh
 
 My music and Scores work hosted in tree diferent platforms, please refer to the follow links for more look into it:
 
+Itchio: https://p-reveria-by-uriel-gomez.itch.io/
+
 Musescore: https://musescore.com/user/67212145
 
 Souncloud: https://soundcloud.com/flowermain
@@ -31,4 +33,5 @@ Youtube: https://www.youtube.com/@AliciaOrchestralLibrary
 Sound Design Reel (Update on the Future): https://youtu.be/GAETyOAfM2Q
 
 For More information send one Gmail to: **urielgomezmadriz@gmail.com** or call the number **+506 7110 8289**
+
 
