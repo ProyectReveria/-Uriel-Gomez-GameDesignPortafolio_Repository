@@ -28,7 +28,7 @@ Itchio: https://p-reveria-by-uriel-gomez.itch.io/
 
 Musescore: https://musescore.com/user/67212145
 
-<a href="[TU_LINK_DE_SOUNDCLOUD](https://soundcloud.com/flowermain)" target="_blank" style="padding: 8px 16px; border: 1px solid #ffffff; color: #ffffff; text-decoration: none; border-radius: 4px;"> soundcloud</a>
+Souncloud: https://soundcloud.com/flowermain
 
 Youtube: https://www.youtube.com/@AliciaOrchestralLibrary
 
