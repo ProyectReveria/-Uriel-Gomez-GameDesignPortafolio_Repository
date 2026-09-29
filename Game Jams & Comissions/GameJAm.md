@@ -15,7 +15,7 @@ Type of music:
 Instrumenal
 Only the In Game music
 
-3)Be there in 5! | Musical Compouser
+3) Be there in 5! | Musical Compouser
 https://josua111602.itch.io/be-there-in-5
 Type of Music: 
 Electronic music | Short loop
