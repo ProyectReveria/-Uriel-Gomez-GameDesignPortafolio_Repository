@@ -9,7 +9,7 @@ The next Document contain all the games i do for game jams.
 Type of music:
 -Electornic and Orchestral Music
 
-3) Don't Fall Apart! | Musical Compouser & Sound Designer
+2) Don't Fall Apart! | Musical Compouser & Sound Designer
 https://alana-mc.itch.io/dont-fall-apart 
 Type of music: 
 Instrumenal
