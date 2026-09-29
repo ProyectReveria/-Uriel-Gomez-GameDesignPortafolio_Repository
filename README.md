@@ -6,7 +6,7 @@ In this repository is all my past work as programer, Game Designer, Game Documen
 **Project Documentation** 
 You can find my Design Documents (GDD) and Musical Design Documents in the **Game Design Documents** folder
 
-Also in other folder can be find the **Game Jams*** and **Comissions**
+Also in other folder can be find the **Game Jams** and **Comissions**
 
 **Note:**
 
