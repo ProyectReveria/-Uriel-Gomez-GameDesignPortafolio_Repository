@@ -2,6 +2,8 @@
 
 The next Document contain all the games i do for game jams.
 
+**LCI Veritas Game Jam (2026)**
+
 1) Gamble your worth | Musical Compouser
 -https://rogerthat20.itch.io/gableyourworth
 Type of music:
