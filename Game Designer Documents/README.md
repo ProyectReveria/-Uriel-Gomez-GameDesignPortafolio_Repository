@@ -21,3 +21,10 @@ English:https://docs.google.com/document/d/1jM4dVqZDK4ruh28LtJ1GSwsbcl3z8qaVzyAy
 
 For the moment is DO NOT HAVE musical Design Documents can be public 
 
+## VoidLine 
+
+VoidLine is under development at the same time the GDD is on Development, for this reason VoidLine only have one Version in Spanish
+
+Spanish:https://docs.google.com/document/d/10pI3_wKLaNOPvpf-9vnNx9U43ASVKssH4ZIHnsRQ2zQ/edit?tab=t.0#heading=h.xzfpwwcfnwtr
+
+The English Version can be ask for one Translation or directly talk whit the owner of this repository 
