@@ -1,4 +1,4 @@
-Narrative Design Document
+### Narrative Design Document
 
 Welcome to the Narrative Design Document Section of my portafolio!
 
@@ -9,7 +9,7 @@ For those how do not are familiarice whit my document System, i speak English an
 If the book can't have pdf, is Google Docs or just do not exist other version is going to be list under this messege:
 
 NOTE: This also contain level schematics, Scripts and sometimes even questlines.
--> Chronostasis Reveria (Metroidvania)
+# -> Chronostasis Reveria (Metroidvania)
 
 Spanish
 https://docs.google.com/document/d/1PHpOVfUd393tcgxYseZ1Uf3uzXHC7tvK-taziO3aT3A/edit?usp=sharing
@@ -23,7 +23,7 @@ https://canva.link/2qg31s3rxkltn00
 Schematic (old)
 https://www.canva.com/design/DAGUFMo7ZYY/gFJk6cLp9tkbxmWnzcnTjQ/edit
 
--> Broken Leven Hearth Lore (Card Game)
+# -> Broken Leven Hearth Lore (Card Game)
 
 Spanish:
 https://docs.google.com/document/d/16nm9_8Ezv9eD5E2OGeOUwNjZrqGoVAnRakTWtvdTgq4/edit?tab=t.0#heading=h.rn8r58fgnyaf
@@ -31,7 +31,7 @@ https://docs.google.com/document/d/16nm9_8Ezv9eD5E2OGeOUwNjZrqGoVAnRakTWtvdTgq4/
 English
 https://docs.google.com/document/d/1dPsLGY4ohWTr0A0Lz4gUCxaypXKfibFQOOJV4Bh0ZmA/edit?tab=t.0#heading=h.rn8r58fgnyaf
 
--> Ishmar Teatry (Short Book) 
+# -> Ishmar Teatry (Short Book) 
 
 Spanish
 https://docs.google.com/document/d/1sdryAl__PElVrEUx0Kjk6tWzWpSO9m4fc6BNkdhumhM/edit?tab=t.0#heading=h.qxsa4lt2rn63
@@ -39,9 +39,11 @@ https://docs.google.com/document/d/1sdryAl__PElVrEUx0Kjk6tWzWpSO9m4fc6BNkdhumhM/
 English
 https://docs.google.com/document/d/1EDm_rCByhEEVtWAB8R8egOg3oxPzNq0G9xgDFX67BPA/edit?tab=t.0#heading=h.r2pc7d364iyx
 
--> (Erly Version) Chronostasis: shatred Ligth (Book) 
+# -> (Erly Version) Chronostasis: shatred Ligth (Book) 
 
--> (Erly Document) VoidLine Proyect
+-> On the Repository has PDF Files
+
+# -> (Erly Document) VoidLine Proyect
 
 Spanish
 https://docs.google.com/document/d/1kov6NeHDmTrcKMW3B38OV3yRTNi4PTC6ozhwTig5wr4/edit?tab=t.0#heading=h.r2pc7d364iyx
