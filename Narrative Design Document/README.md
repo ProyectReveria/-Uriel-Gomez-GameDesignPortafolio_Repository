@@ -1,4 +1,4 @@
-### Narrative Design Document
+# Narrative Design Document
 
 Welcome to the Narrative Design Document Section of my portafolio!
 
@@ -9,7 +9,7 @@ For those how do not are familiarice whit my document System, i speak English an
 If the book can't have pdf, is Google Docs or just do not exist other version is going to be list under this messege:
 
 NOTE: This also contain level schematics, Scripts and sometimes even questlines.
-# -> Chronostasis Reveria (Metroidvania)
+### -> Chronostasis Reveria (Metroidvania)
 
 Spanish
 https://docs.google.com/document/d/1PHpOVfUd393tcgxYseZ1Uf3uzXHC7tvK-taziO3aT3A/edit?usp=sharing
@@ -23,7 +23,7 @@ https://canva.link/2qg31s3rxkltn00
 Schematic (old)
 https://www.canva.com/design/DAGUFMo7ZYY/gFJk6cLp9tkbxmWnzcnTjQ/edit
 
-# -> Broken Leven Hearth Lore (Card Game)
+### -> Broken Leven Hearth Lore (Card Game)
 
 Spanish:
 https://docs.google.com/document/d/16nm9_8Ezv9eD5E2OGeOUwNjZrqGoVAnRakTWtvdTgq4/edit?tab=t.0#heading=h.rn8r58fgnyaf
@@ -31,7 +31,7 @@ https://docs.google.com/document/d/16nm9_8Ezv9eD5E2OGeOUwNjZrqGoVAnRakTWtvdTgq4/
 English
 https://docs.google.com/document/d/1dPsLGY4ohWTr0A0Lz4gUCxaypXKfibFQOOJV4Bh0ZmA/edit?tab=t.0#heading=h.rn8r58fgnyaf
 
-# -> Ishmar Teatry (Short Book) 
+### -> Ishmar Teatry (Short Book) 
 
 Spanish
 https://docs.google.com/document/d/1sdryAl__PElVrEUx0Kjk6tWzWpSO9m4fc6BNkdhumhM/edit?tab=t.0#heading=h.qxsa4lt2rn63
@@ -39,7 +39,7 @@ https://docs.google.com/document/d/1sdryAl__PElVrEUx0Kjk6tWzWpSO9m4fc6BNkdhumhM/
 English
 https://docs.google.com/document/d/1EDm_rCByhEEVtWAB8R8egOg3oxPzNq0G9xgDFX67BPA/edit?tab=t.0#heading=h.r2pc7d364iyx
 
-# -> (Erly Version) Chronostasis: shatred Ligth (Book) 
+### -> (Erly Version) Chronostasis: shatred Ligth (Book) 
 
 -> On the Repository has PDF Files
 
@@ -47,3 +47,31 @@ https://docs.google.com/document/d/1EDm_rCByhEEVtWAB8R8egOg3oxPzNq0G9xgDFX67BPA/
 
 Spanish
 https://docs.google.com/document/d/1kov6NeHDmTrcKMW3B38OV3yRTNi4PTC6ozhwTig5wr4/edit?tab=t.0#heading=h.r2pc7d364iyx
+
+English
+https://docs.google.com/document/d/1EDm_rCByhEEVtWAB8R8egOg3oxPzNq0G9xgDFX67BPA/edit?tab=t.0#heading=h.el9wyy8gonsb
+
+# -> (Concept Face [ Only on Spanish ] Elderkeepr
+
+Spanish
+https://docs.google.com/document/d/1Ov7SsZEDkyanFutk6qAk17VzM_iFKg05BybU0aU8g8g/edit?tab=t.0
+
+# -> (Only Concept [only on spanish]) Tales from the eden
+
+Spanish:
+https://docs.google.com/document/d/1SqQaooaplIy1A9z2w6iysCs_p38elh9BwtYInl5KnfA/edit?tab=t.y6urfklavobl#heading=h.w2aljj84sy33
+
+# -> [Depend on format] (for Animacion) Voicless flower
+
+*(prototipe) book* 
+Spanish:
+https://docs.google.com/document/d/1PFYzKzhzDXq1iTEM-j1mL2iZ7ivO9ieVjYBSebEib0U/edit?tab=t.0
+
+*(conceptual document)*
+English
+https://docs.google.com/document/d/1ZhOj09GtlBsTIasADtfNCh7qeuu9o0UPX7Bb80UAcXI/edit?tab=t.0#heading=h.wdntaj9tqm9t
+
+*(Extended Concepts)*
+
+Spanish
+https://docs.google.com/document/d/11WXyry8Gi_hMN_nPHvQQKMnG3hy8sPfTXbgeED46rJ4/edit?tab=t.0#heading=h.owlaziegami0
