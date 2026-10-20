@@ -1,77 +1,95 @@
-# Narrative Design Document
+# Narrative Design Documents
 
-Welcome to the Narrative Design Document Section of my portafolio!
+Welcome to the Narrative Design section of my portfolio!
 
-I love make history, one of the biggest parts in my GDD's is actually history and narrative (Just Chronostasis: Reveria have 60% of the history by the document) 
+I love creating stories. One of the biggest parts of my GDDs is the story and narrative design. For example, approximately 60% of the *Chronostasis: Reveria* GDD focuses on its story.
 
-For those how do not are familiarice whit my document System, i speak English and Spanish so normaly ia have documents in both versions or only in English, in this case both are part of the PDF.
+For those who are unfamiliar with my documentation system, I speak both English and Spanish, so my documents are usually available in both languages or only in English. In this case, both language versions are included in the PDFs.
 
-If the book can't have pdf, is Google Docs or just do not exist other version is going to be list under this messege:
+If a document is not available as a PDF, is hosted on Google Docs, or does not have another version available, it will be listed below:
 
-NOTE: This also contain level schematics, Scripts and sometimes even questlines.
-### -> Chronostasis Reveria (Metroidvania)
+**NOTE:** These documents may also contain level schematics, scripts, and sometimes even questlines.
 
-Spanish
+### -> Chronostasis: Reveria (Metroidvania)
+
+**Spanish**
+
 https://docs.google.com/document/d/1PHpOVfUd393tcgxYseZ1Uf3uzXHC7tvK-taziO3aT3A/edit?usp=sharing
 
-English
+**English**
+
 https://docs.google.com/document/d/1zjKdX9oX81lVgXVKk7Kfr2kbgX3vKozb8cDsvaFiiIc/edit?tab=t.0#heading=h.u7f9gs9qcx25
 
-Schematic (New) [On Development]
+**Schematic (New) [In Development]**
+
 https://canva.link/2qg31s3rxkltn00
 
-Schematic (old)
+**Schematic (Old)**
+
 https://www.canva.com/design/DAGUFMo7ZYY/gFJk6cLp9tkbxmWnzcnTjQ/edit
 
 ### -> Broken Leven Hearth Lore (Card Game)
 
-Spanish:
+**Spanish:**
+
 https://docs.google.com/document/d/16nm9_8Ezv9eD5E2OGeOUwNjZrqGoVAnRakTWtvdTgq4/edit?tab=t.0#heading=h.rn8r58fgnyaf
 
-English
+**English:**
+
 https://docs.google.com/document/d/1dPsLGY4ohWTr0A0Lz4gUCxaypXKfibFQOOJV4Bh0ZmA/edit?tab=t.0#heading=h.rn8r58fgnyaf
 
-### -> Ishmar Teatry (Short Book) 
+### -> Ishmar Teatry (Short Book)
 
-Spanish
+**Spanish**
+
 https://docs.google.com/document/d/1sdryAl__PElVrEUx0Kjk6tWzWpSO9m4fc6BNkdhumhM/edit?tab=t.0#heading=h.qxsa4lt2rn63
 
-English
+**English**
+
 https://docs.google.com/document/d/1EDm_rCByhEEVtWAB8R8egOg3oxPzNq0G9xgDFX67BPA/edit?tab=t.0#heading=h.r2pc7d364iyx
 
-### -> (Erly Version) Chronostasis: shatred Ligth (Book) 
+### -> (Early Version) Chronostasis: Shattered Light (Book)
 
--> On the Repository has PDF Files
+The repository contains PDF files.
 
-# -> (Erly Document) VoidLine Proyect
+### -> (Early Document) VoidLine Project
 
-Spanish
+**Spanish**
+
 https://docs.google.com/document/d/1kov6NeHDmTrcKMW3B38OV3yRTNi4PTC6ozhwTig5wr4/edit?tab=t.0#heading=h.r2pc7d364iyx
 
-English
+**English**
+
 https://docs.google.com/document/d/1EDm_rCByhEEVtWAB8R8egOg3oxPzNq0G9xgDFX67BPA/edit?tab=t.0#heading=h.el9wyy8gonsb
 
-# -> (Concept Face [ Only on Spanish ] Elderkeepr
+### -> (Concept Art) Elderkeeper [Spanish Only]
 
-Spanish
+**Spanish**
+
 https://docs.google.com/document/d/1Ov7SsZEDkyanFutk6qAk17VzM_iFKg05BybU0aU8g8g/edit?tab=t.0
 
-# -> (Only Concept [only on spanish]) Tales from the eden
+### -> (Concept Only) Tales from the Eden [Spanish Only]
 
-Spanish:
+**Spanish**
+
 https://docs.google.com/document/d/1SqQaooaplIy1A9z2w6iysCs_p38elh9BwtYInl5KnfA/edit?tab=t.y6urfklavobl#heading=h.w2aljj84sy33
 
-# -> [Depend on format] (for Animacion) Voicless flower
+### -> Voiceless Flower (Animation Project; Format Depends on the Intended Use)
 
-*(prototipe) book* 
-Spanish:
+**(Prototype Book)**
+
+**Spanish**
+
 https://docs.google.com/document/d/1PFYzKzhzDXq1iTEM-j1mL2iZ7ivO9ieVjYBSebEib0U/edit?tab=t.0
 
-*(conceptual document)*
-English
+**(Concept Document)**
+
+**English**
+
 https://docs.google.com/document/d/1ZhOj09GtlBsTIasADtfNCh7qeuu9o0UPX7Bb80UAcXI/edit?tab=t.0#heading=h.wdntaj9tqm9t
 
-*(Extended Concepts)*
+**(Extended Concepts)**
 
-Spanish
-https://docs.google.com/document/d/11WXyry8Gi_hMN_nPHvQQKMnG3hy8sPfTXbgeED46rJ4/edit?tab=t.0#heading=h.owlaziegami0
+**Spanish**
+
+https://docs.google.com/document/d/11WXyry8Gi_hMN_nPHvQQKMnG3hy8sPfTXbgeED46rJ4/edit?tab=t.0#heading=h.owlaziegami
