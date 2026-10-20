@@ -93,3 +93,5 @@ https://docs.google.com/document/d/1ZhOj09GtlBsTIasADtfNCh7qeuu9o0UPX7Bb80UAcXI/
 **Spanish**
 
 https://docs.google.com/document/d/11WXyry8Gi_hMN_nPHvQQKMnG3hy8sPfTXbgeED46rJ4/edit?tab=t.0#heading=h.owlaziegami
+
+Important: I have even more content! I started writing in 2019, seven years ago. This document only includes the projects I am proud of, want to finish or continue working on, or am currently developing as personal projects.
