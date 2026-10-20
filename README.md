@@ -40,6 +40,11 @@ Youtube: https://www.youtube.com/@AliciaOrchestralLibrary
 
 Sound Design Reel (Update on the Future): https://youtu.be/GAETyOAfM2Q
 
+# **Narrative Design**
+I started gaining experience in narrative while learning music and programming. My journey began with writing comics, and I eventually moved into Game Design after a company hired me as a video game composer.
+
+Nowadays, I have several prototypes, structures, and even books. In the Narrative folder, you can find many examples of my work, including finished, unfinished, and publicly available projects.
+
 For More information send one Gmail to: **urielgomezmadriz@gmail.com** or call the number **+506 7110 8289**
 
 
