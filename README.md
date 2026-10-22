@@ -1,50 +1,51 @@
-## **Uriel Gomez | Portfolio & Technical Documentation**
+# Uriel Gomez | Portfolio & Technical Documentation
 
-Welcome to my professional portfolio. This repository serves as a centralized hub for my technical documentation, project architectures, and design workflows as a Game Engine Architect, Programmer, and Technical Designer.
-In this repository is all my past work as programer, Game Designer, Game Documentation and much more
+Welcome to my professional portfolio. This repository serves as a central hub for my technical documentation, project architectures, design workflows, and selected work across game design, programming, and creative disciplines.
 
-# **Project Documentation** 
-You can find my Design Documents (GDD) and Musical Design Documents in the **Game Design Documents** folder
+Here you can explore my previous work, including programming projects, game design documentation, technical specifications, and more.
 
-Also in other folder can be find the **Game Jams** and **Comissions**
+## Project Documentation
 
-# **Note:**
+My Game Design Documents (GDDs) and Musical Design Documents are available in the **Game Design Documents** folder.
 
-*The files are provided in PDF format.*
+Additional folders contain materials related to **Game Jams** and **Commissions**.
 
-**Code & Engine Architecture**
+**Note:** Documents are provided in PDF format.
 
-For the actual source code, including my Game engine and graphics programing experience, please refer to the repositores:
+## Code & Engine Architecture
 
-OpenGL Prepositori: https://github.com/ProyectReveria/OpenGL_Prepositori
+For source code, engine development, and graphics programming projects, please refer to the following repositories:
 
-ObscureEngine: https://github.com/ProyectReveria/Obscure_Game_Engine_2.0__for_Shell
+- **OpenGL Repository:** https://github.com/ProyectReveria/OpenGL_Prepositori
+- **Obscure Engine:** https://github.com/ProyectReveria/Obscure_Game_Engine_2.0__for_Shell
 
-**For References in Unity Development (Proyect under development has side Proyect)**
+### Unity Development Projects
 
-VoidLine (Unity 6) : https://github.com/ProyectReveria/VoidLine-Proyect
+The following repositories contain Unity projects currently under development:
 
-Chronostasis: Reveria (Unity 6) : https://github.com/ProyectReveria/Proyect-Reveria
+- **VoidLine (Unity 6):** https://github.com/ProyectReveria/VoidLine-Proyect
+- **Chronostasis: Reveria (Unity 6):** https://github.com/ProyectReveria/Proyect-Reveria
 
-# **Creative Portafolio** 
+## Creative Portfolio
 
-My music and Scores work hosted in tree diferent platforms, please refer to the follow links for more look into it:
+My music compositions and musical scores are available across the following platforms:
 
-Itchio: https://p-reveria-by-uriel-gomez.itch.io/
+- **itch.io:** https://p-reveria-by-uriel-gomez.itch.io/
+- **MuseScore:** https://musescore.com/user/67212145
+- **SoundCloud:** https://soundcloud.com/flowermain
+- **YouTube — Alicia Orchestral Library:** https://www.youtube.com/@AliciaOrchestralLibrary
+- **Sound Design Reel:** https://youtu.be/GAETyOAfM2Q  
+  *Future update planned.*
 
-Musescore: https://musescore.com/user/67212145
+## Narrative Design
 
-Soundcloud: https://soundcloud.com/flowermain
+My experience in narrative design began alongside my studies in music and programming. I started by writing comics and later transitioned into game development after being hired by a studio as a video game composer.
 
-Youtube: https://www.youtube.com/@AliciaOrchestralLibrary
+Since then, I have developed narrative concepts, prototypes, story structures, and books. The **Narrative** folder contains selected examples of my work, including completed projects, works in progress, and publicly available materials.
 
-Sound Design Reel (Update on the Future): https://youtu.be/GAETyOAfM2Q
+## Contact
 
-# **Narrative Design**
-I started gaining experience in narrative while learning music and programming. My journey began with writing comics, and I eventually moved into Game Design after a company hired me as a video game composer.
+For further information about my work, feel free to contact me:
 
-Nowadays, I have several prototypes, structures, and even books. In the Narrative folder, you can find many examples of my work, including finished, unfinished, and publicly available projects.
-
-For More information send one Gmail to: **urielgomezmadriz@gmail.com** or call the number **+506 7110 8289**
-
-
+- **Email:** urielgomezmadriz@gmail.com
+- **Phone:** +506 7110 8289
