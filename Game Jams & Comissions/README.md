@@ -12,3 +12,13 @@ Superball Saga in the moment this document is create and upload do not have the 
 
 **Roger Molina Mendez:**
 https://www.instagram.com/roger_that_molina/ 
+
+# **VSChuysmik 1.5 beta**
+https://docs.google.com/document/d/1iR32VbKVkY8VKbaXB67_PGkyOhLpOz6u3SFsURikMrA/edit?tab=t.0
+
+(is here for reference)
+
+# **Gummy's Candy**
+https://resistances-entertainment.itch.io/gummys-candy-mini-beta-12
+
+(is here for reference)
